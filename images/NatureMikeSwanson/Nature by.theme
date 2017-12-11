@@ -1,0 +1,177 @@
+
+; Copyright © Microsoft Corp.
+
+[Theme]
+DisplayName=Nature by Mike Swanson
+
+; Computer - SHIDI_SERVER
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-109
+
+; UsersFiles - SHIDI_USERFILES
+[CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-123
+
+; Network - SHIDI_MYNETWORK
+[CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-25
+
+; Recycle Bin - SHIDI_RECYCLERFULL SHIDI_RECYCLER
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+Full=%SystemRoot%\System32\imageres.dll,-54
+Empty=%SystemRoot%\System32\imageres.dll,-55
+
+[Control Panel\Cursors]
+AppStarting=%SystemRoot%\cursors\aero_working.ani
+Arrow=%SystemRoot%\cursors\aero_arrow.cur
+Hand=%SystemRoot%\cursors\aero_link.cur
+Help=%SystemRoot%\cursors\aero_helpsel.cur
+No=%SystemRoot%\cursors\aero_unavail.cur
+NWPen=%SystemRoot%\cursors\aero_pen.cur
+SizeAll=%SystemRoot%\cursors\aero_move.cur
+SizeNESW=%SystemRoot%\cursors\aero_nesw.cur
+SizeNS=%SystemRoot%\cursors\aero_ns.cur
+SizeNWSE=%SystemRoot%\cursors\aero_nwse.cur
+SizeWE=%SystemRoot%\cursors\aero_ew.cur
+UpArrow=%SystemRoot%\cursors\aero_up.cur
+Wait=%SystemRoot%\cursors\aero_busy.ani
+DefaultValue=Windows Aero
+
+[Control Panel\Desktop]
+Wallpaper=DesktopBackground\2mswanson - rock 02.jpg
+TileWallpaper=0
+WallpaperStyle=10
+Pattern=
+
+[Control Panel\Colors]
+Background=0 0 0
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\Aero.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+ColorizationColor=0X54FCFCFC
+Transparency=1
+Composition=1
+VisualStyleVersion=10
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=DABJDKT
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+SchemeName=Garden (modified)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Control Panel\Desktop.A]
+[Control Panel\Desktop.W]
+Wallpaper=+ACU-USERPROFILE+ACUAXA-Desktop+AFw-Windows com+AFw-Content+AFw-Theme Pack+AFyMx3tWZwMAXGcAX4xPXFTBAFw-STANLEY+AFw-letter in the bottle+AF8-stanley.jpg
+[Sounds.A]
+[Sounds.W]
+SchemeName=Windows +mBCKLQ-
+[Theme.A]
+[Theme.W]
+DisplayName=+ZypRMltYdoRPSGZvTjuYTA-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[AppEvents\Schemes\Apps\.Default\.Default]
+DefaultValue=%SystemRoot%\Media\Garden\Windows Ding.wav
+[AppEvents\Schemes\Apps\.Default\ChangeTheme]
+DefaultValue=%SystemRoot%\Media\Garden\Windows Logon Sound.wav
+[AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm]
+DefaultValue=%SystemRoot%\Media\Garden\Windows Battery Critical.wav
+[AppEvents\Schemes\Apps\.Default\DeviceConnect]
+DefaultValue=%SystemRoot%\Media\Garden\Windows Hardware Insert.wav
+[AppEvents\Schemes\Apps\.Default\DeviceDisconnect]
+DefaultValue=%SystemRoot%\Media\Garden\Windows Hardware Remove.wav
+[AppEvents\Schemes\Apps\.Default\DeviceFail]
+DefaultValue=%SystemRoot%\Media\Garden\Windows Hardware Fail.wav
+[AppEvents\Schemes\Apps\.Default\FaxBeep]
+DefaultValue=%SystemRoot%\Media\Garden\Windows Notify.wav
+[AppEvents\Schemes\Apps\.Default\LowBatteryAlarm]
+DefaultValue=%SystemRoot%\Media\Garden\Windows Battery Low.wav
+[AppEvents\Schemes\Apps\.Default\MailBeep]
+DefaultValue=%SystemRoot%\Media\Garden\Windows Notify.wav
+[AppEvents\Schemes\Apps\.Default\PrintComplete]
+DefaultValue=%SystemRoot%\Media\Garden\Windows Print complete.wav
+[AppEvents\Schemes\Apps\.Default\SystemAsterisk]
+DefaultValue=%SystemRoot%\Media\Garden\Windows Error.wav
+[AppEvents\Schemes\Apps\.Default\SystemExclamation]
+DefaultValue=%SystemRoot%\Media\Garden\Windows Exclamation.wav
+[AppEvents\Schemes\Apps\.Default\SystemHand]
+DefaultValue=%SystemRoot%\Media\Garden\Windows Critical Stop.wav
+[AppEvents\Schemes\Apps\.Default\SystemNotification]
+DefaultValue=%SystemRoot%\Media\Garden\Windows Balloon.wav
+[AppEvents\Schemes\Apps\.Default\WindowsLogoff]
+DefaultValue=%SystemRoot%\Media\Garden\Windows Logoff Sound.wav
+[AppEvents\Schemes\Apps\.Default\WindowsLogon]
+DefaultValue=%SystemRoot%\Media\Garden\Windows Logon Sound.wav
+[AppEvents\Schemes\Apps\.Default\WindowsUAC]
+DefaultValue=%SystemRoot%\Media\Garden\Windows User Account Control.wav
+[AppEvents\Schemes\Apps\Explorer\BlockedPopup]
+DefaultValue=%SystemRoot%\Media\Garden\Windows Pop-up Blocked.wav
+[AppEvents\Schemes\Apps\Explorer\FeedDiscovered]
+DefaultValue=%SystemRoot%\Media\Garden\Windows Feed Discovered.wav
+[AppEvents\Schemes\Apps\Explorer\Navigating]
+DefaultValue=
+[AppEvents\Schemes\Apps\Explorer\SecurityBand]
+DefaultValue=%SystemRoot%\Media\Garden\Windows Information Bar.wav
+
+
+
+
+
+[Slideshow]
+ImagesRootPIDL=GXAFA8BUg/E0gouOpBhoYjAArADMdmBAvYkOcBAAAAAAAAAAAAAAAAAAAAAAAAAUAEDAAAAAAoMPnaLEAMHahJXZxAAA6AACAQAAv7ry8QFtKzzp2qCAAAQRAAAAAAQAAAAAAAAAAAAAAAAAAAAAzBAaAEGAyBQZAEDAAAgFAwFAxAAAAAAAX0jxMCBAUhURNVkU+FDAAQEAIAABA8uvKzjb0eRPGzoKAAAA7IAAAAAABAAAAAAAAAAAAAAAAAAAAQHAoBQZA0GAlBgcAUGA2BQaAUGA3BAAAgBArTQMAAAAAAwF9AykQAQTJtURTdlfxAAAEBACAQAAv7LF9gopX0DITqCAAAA6nGAAAAgAAAAAAAAAAAAAAAAAAAAANBQaAsGAlBwUAcHAhBgbAMHAvBgbAAAAYAwjEAAAQAw7+GAAAAQfEAAA5RAAAEzUQNVBV3c1c6yGQM5lIAwKskvrhAAAAABAAAAALBQZAkHA6AAUAkEAEBAAAMBAAAAZAAAA5NAAAQBAAAAADBwbA4GAkBQaAQHApBwbA4GAAAgQAAAAeAAAAAHAyBwbAAHA0AgMAkDA0AQOAYDA3AgMAkDA1AAAAAAAvMAAAMRjvFhHQU6TES9/CmHOZUDAAAAABAAAAsAAAAQicFvUXoV4ItbzGNK+cynwAAAAAAuWPHkW3bAS9eYWHnNJOmLZAAAALAAAA8BAGAAAAoCAuAgaAAHAnBAAAAAABAAAAAAAAkIXxL1FaFOS72sRjiPn8JMAAAAAgr1zBp19GgUvHm1xZTij5SGAAAwCAAAAfAwBAAAAqAgLAoGAwBQZAcGAAAAAAEAAAAAAAAQicFvUXoV4ItbzGNK+cynwAAAAAAuWPHkW3bAS9eYWHnNJOmLZAAAALAAAA8BAGAAAAoCAuAgYA0GAwBAAAAAABAAAAAAAAkIXxL1FaFOS72sRjiPn8JMAAAAAgr1zBp19GgUvHm1xZTij5SGAAAwCAAAAfAgBAAAAqAgLAQGApBgYAAAAAAQAAAAAAAAAJyV8SdhWhj0uNb0o4zJfCDAAAAA4a9cQadvBI17hZdc2k4YukBAAAsAAAAwHAYAAAAgKA4CAwBgbAcGAAAAAAEAAAAAAAAQicFvUXoV4ItbzGNK+cynwAAAAAAuWPHkW3bAS9eYWHnNJOmLZAAAALAAAA8BAGAAAAoCAuAwZAkGAmBAAAAAABAAAAAAAAkIXxL1FaFOS72sRjiPn8JMAAAAAgr1zBp19GgUvHm1xZTij5SGAAAwCAAAAfAwBAAAAqAgLAoGAmBQaAYGAAAAAAEAAAAAAAAQicFvUXoV4ItbzGNK+cynwAAAAAAuWPHkW3bAS9eYWHnNJOmLZAAAALAAAA8BAGAAAAoCAuAgaAAHAlBAAAAAABAAAAAAAAkIXxL1FaFOS72sRjiPn8JMAAAAAgr1zBp19GgUvHm1xZTij5SGAAAwCAAAAfAgBAAAAqAgLAQHApBgZAAAAAAQAAAAAAAAAJyV8SdhWhj0uNb0o4zJfCDAAAAA4a9cQadvBI17hZdc2k4YukBAAAsAAAAwHAcAAAAgKA4CA0BQaAYGAmBAAAAAABAAAAAAAAkIXxL1FaFOS72sRjiPn8JMAAAAAgr1zBp19GgUvHm1xZTij5SGAAAwCAAAAfAgBAAAAqAgLAcHAkBAcAAAAAAQAAAAAAAAAAUHAAAAFAAAAAsEAlBQeAoDAGBQTAQFAJBARAAAAIAAAA4EAAAweAQDAxAwQAYEA1AQQAUEAwAQLAYEA3AQNAEEAtAANAgDAwAgNA0CACBARAgDA3AQLAUDA5AwQAcDAEBQOAIDA0AAOAUEACBQOA0HAAAAAAMDAAAgCAAAAA4EAhBQbAUGAAAACAAAAYAAAA0EApBwaAUGATBwdAEGAuBwcA8GAuBAAAsBAAAgCAAAAAQFA5BAcAUGAAAwEAAAAAAAAAAAAAAAAAAAAYAAAAA
+
+Interval=1800000
+Shuffle=0
+ImagesRootPath=DesktopBackground
